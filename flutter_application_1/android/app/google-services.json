@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372890320799",
+    "project_id": "fypiot-2804d",
+    "storage_bucket": "fypiot-2804d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372890320799:android:2764f822d08b5a9b2647aa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4H3By1lTZAvQN85uSrRYuvTKEo2royNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
